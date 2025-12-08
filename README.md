@@ -12,4 +12,5 @@ v0.0.0.1.2 :  add  plant
 
 v1.0.0.0.0  :  
 Renew  features.
-(can , coil for inductor, Iron powder(which  is  originated  by  Hot-pack), magnets  ).
+(can , coil for inductor, Iron powder(which  is  originated  by  Hot-pack), magnets  ).  
+-zero  volatage, no  current..
