@@ -1,6 +1,9 @@
 # WIRELESS-ELECTRIC-TRANSMISSION-LONG-DISTANCE
 
 # history log
+(implementation  steps:Electrical-Transmission-part implementation: 
+1. sender impl
+2. receiver  impl  )
 v0.0.0.1 :combine  the  materials
 (aluminum can  and  plastic water bottle)
 
