@@ -16,6 +16,7 @@ Renew  features.
 -zero  volatage, no  current..
 
 **v1.5.0.0.0**
+(2025-12-09)
 New  construction-way: can  inside   on plastic  bottle and  iron  powder  in  it.  and  inductor  coil  and
 copper-line(electrial-line) on  the other can(Tuna  can).
 
