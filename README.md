@@ -28,3 +28,7 @@ Still  thinking...studying...and refer  the  books. 📖
 To  be  continued...
 --------------------------------
 **version  7.0.0.0.0 ** :  reciever  implemantation. Wait... maybe later  2028  or later ...
+
+**FINAL  STEP**
+---------------------------------
+Translate  intO 5V, 3A  (15W)
