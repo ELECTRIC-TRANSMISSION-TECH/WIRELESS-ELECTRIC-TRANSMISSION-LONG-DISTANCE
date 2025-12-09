@@ -23,7 +23,8 @@ Renew  features.
 (2025-12-09)
 New  construction-way: can  inside   on plastic  bottle and  iron  powder  in  it.  and  inductor  coil  and
 copper-line(electrial-line) on  the other can(Tuna  can).
-
+-----------------------------------
+Still  thinking...
 To  be  continued...
 --------------------------------
 **version  7.0.0.0.0 ** :  reciever  implemantation. Wait... maybe later  2028  or later ...
