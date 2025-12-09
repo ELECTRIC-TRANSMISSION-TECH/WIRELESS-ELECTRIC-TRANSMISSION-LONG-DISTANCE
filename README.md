@@ -14,3 +14,7 @@ v1.0.0.0.0  :
 Renew  features.
 (can , coil for inductor, Iron powder(which  is  originated  by  Hot-pack), magnets  ).  
 -zero  volatage, no  current..
+
+**v1.5.0.0.0**
+New  construction-way: can  inside   on plastic  bottle and  iron  powder  in  it.  and  inductor  coil  and
+copper-line(electrial-line) on  the other can(Tuna  can).
