@@ -29,6 +29,8 @@ To  be  continued...
 --------------------------------
 **Renew version  0.0.0.0.0** :  Refactor 3rd version:  Reconstruct (Maybe 2027.3  or  later..)
 ---------------------------------
+**version  0.0.0. 0. 1** :  using Reyden  jar,  using  thr  natural  electric. 
+---------------------------------------
 **version  7.0.0.0.0 ** :  reciever  implemantation. Wait... maybe later  2029 or later ...
 
 **FINAL  STEP**
