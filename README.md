@@ -27,7 +27,7 @@ copper-line(electrial-line) on  the other can(Tuna  can).
 Still  thinking...studying...and refer  the  books. 📖
 To  be  continued...
 --------------------------------
-**Renew version  0.0.0.0.0** :  Refactor 3rd version:  Reconstruct (Maybe 2027.3  or  later..)
+**Renew version  0.0.0.0.0** :  Refactor 3rd version:  Reconstruct (Maybe 2028.3  or  later..)
 ---------------------------------
 **Renew version  0.0.0. 0. 1** :  using Reyden  jar,  using  thr  natural  electric. 
 ---------------------------------------
@@ -35,7 +35,7 @@ To  be  continued...
 **Renew version  0.0.0.0.2**: 
 sender  emit magnetic fields by  using  Reyden  jar, inductor  coil, Tuna can, Hot-pack's Iron  powder(it  is  inside  to  be  tuna  can).
 ----------------------------------------
-version  7.0.0.0.0  :  reciever  implemantation. Wait... maybe later  2029 or later ...
+version  7.0.0.0.0  :  reciever  implemantation. Wait... maybe later  2030 or later ...
 ---------------------------------------
 
 **FINAL  STEP**
