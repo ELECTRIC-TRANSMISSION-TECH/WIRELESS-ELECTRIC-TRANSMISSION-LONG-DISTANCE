@@ -29,10 +29,15 @@ To  be  continued...
 --------------------------------
 **Renew version  0.0.0.0.0** :  Refactor 3rd version:  Reconstruct (Maybe 2027.3  or  later..)
 ---------------------------------
-**version  0.0.0. 0. 1** :  using Reyden  jar,  using  thr  natural  electric. 
+**Renew version  0.0.0. 0. 1** :  using Reyden  jar,  using  thr  natural  electric. 
 ---------------------------------------
+
+**Renew version  0.0.0.0.2**: 
+sender  emit magnetic fields by  using  Reyden  jar, inductor  coil, Tuna can, Hot-pack's Iron  powder(it  is  inside  to  be  tuna  can).
+----------------------------------------
 **version  7.0.0.0.0 ** :  reciever  implemantation. Wait... maybe later  2029 or later ...
+---------------------------------------
 
 **FINAL  STEP**
 ---------------------------------
-Translate  intO 5V, 3A  (15W)
+Translate  into 1000W  power(which  that operating the  gpu  server) and  more power,which sinumoidal.
