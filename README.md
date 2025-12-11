@@ -1,5 +1,7 @@
 # WIRELESS-ELECTRIC-TRANSMISSION-LONG-DISTANCE
-
+--------------------------------
+what  to need:  copper line,  magnet, Tuna can, plastic bottles, Reyden jar customized, (FPGA Board  , some chips  etc).
+---------------------------------
 # history log
 implementation  steps:Electrical-Transmission-part implementation: 
 1. sender impl
