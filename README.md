@@ -51,3 +51,4 @@ version  7.0.0.0.0  :  reciever  implemantation. Wait... maybe later  2030 or la
 3. Translate  into  3000w  powers.
 4. .Translate  into  4000w  powers.
    5000w  6000w  7000w  ..  10000W  etc.Gradual update.
+----------------------------------------
