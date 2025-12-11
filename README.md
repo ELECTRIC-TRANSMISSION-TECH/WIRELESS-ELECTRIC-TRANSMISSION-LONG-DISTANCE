@@ -43,7 +43,7 @@ unified  the  sender  and reciever architectures.
 version  7.0.0.0.0  :  reciever  implemantation. Wait... maybe later  2030 or later ...
 ---------------------------------------
 
-**FINAL  STEPS**
+**FINAL  STEPS** :  end  in  2046 .
 ---------------------------------
 1. Translate  into 1000W  power(which  that operating the  gpu  server) and  more power,which sinusoidal.
 
