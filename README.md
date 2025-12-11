@@ -34,6 +34,9 @@ To  be  continued...
 
 **Renew version  0.0.0.0.2**: 
 sender  emit magnetic fields by  using  Reyden  jar, inductor  coil, Tuna can, Hot-pack's Iron  powder(it  is  inside  to  be  tuna  can).
+---------------------------------------
+**Renew  vereion 0.0.0.0.3**: 
+unified  the  sender  and reciever architectures.
 ----------------------------------------
 version  7.0.0.0.0  :  reciever  implemantation. Wait... maybe later  2030 or later ...
 ---------------------------------------
