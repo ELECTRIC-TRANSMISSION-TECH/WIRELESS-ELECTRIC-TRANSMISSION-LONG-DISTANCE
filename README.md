@@ -41,10 +41,10 @@ sender  emit magnetic fields by  using  Reyden  jar, inductor  coil, Tuna can, H
 **Renew  vereion 0.0.0.0.3**: 
 unified  the  sender  and reciever architectures.
 ----------------------------------------
-version  7.0.0.0.0  :  reciever  implemantation. Wait... maybe later  2030 or later ...
+version  7.0.0.0.0  :  reciever  implemantation. Wait... maybe later  2040 or later ...
 ---------------------------------------
 
-**FINAL  STEPS** :  end  in  2046 .
+**FINAL  STEPS** :  end  in  2056 .
 ---------------------------------
 1. Translate  into 1000W  power(which  that operating the  gpu  server) and  more power,which sinusoidal.
 
