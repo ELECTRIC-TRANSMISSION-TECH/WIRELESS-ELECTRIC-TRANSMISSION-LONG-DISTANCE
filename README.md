@@ -1,5 +1,5 @@
 # WIRELESS-ELECTRIC-TRANSMISSION-LONG-DISTANCE
-**notice**  : It is too  dangerous  to  execute  in  general  house.⚠️ .so ,  implicitly  halt  until  2040.
+**notice**  : It is too  dangerous  to  execute  in  general  house.⚠️ .so ,  implicitly  halt  until  2040.  However, prototypes  are  proceeding(predicting  the models).
 --------------------------------
 what  to need:  copper line,  magnet, Tuna can, plastic bottles, Reyden jar customized, (FPGA Board  , some chips  etc).
 ---------------------------------
